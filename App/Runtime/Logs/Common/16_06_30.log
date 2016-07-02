@@ -1,0 +1,30 @@
+[ 2016-06-30T00:32:51+08:00 ] 127.0.0.1 /beacon.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.177435s ]
+ERR: 无法加载模块:Beacon
+
+[ 2016-06-30T14:42:10+08:00 ] 127.0.0.1 /b?c1=2&c2=3000001&rn=1467268929882&c7=http%3A%2F%2Fwww.msn.com%2Fzh-cn&c8=Start&c9=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.044576s ]
+ERR: 无法加载模块:B
+
+[ 2016-06-30T14:43:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-06-30T14:59:00+08:00 ] 127.0.0.1 /view.php?uid=10060
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+ERR: 无法加载模块:View
+
+[ 2016-06-30T15:42:13+08:00 ] 127.0.0.1 /b?c1=2&c2=3000001&rn=1467272533702&c7=http%3A%2F%2Fwww.msn.com%2Fzh-cn&c8=Start&c9=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:B
+
